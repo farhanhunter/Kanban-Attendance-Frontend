@@ -4,6 +4,8 @@ AttendanceApp adalah aplikasi berbasis web untuk mencatat presensi (kehadiran) m
 
 ## Fitur Backend
 
+[Kunjungi Website](https://github.com/farhanhunter/Kanban-and-Attendance-API.git)
+
 1. Manajemen Perusahaan
 
    - Dapatkan Semua Perusahaan: Mengambil data semua perusahaan yang terdaftar dalam sistem.
